@@ -1,7 +1,7 @@
 @tailwind base;
 
 a {
-    @apply text-teal-500;
+    @apply text-teal-400;
 }
 
 @tailwind components;
