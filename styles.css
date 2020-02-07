@@ -1,0 +1,8 @@
+@tailwind base;
+
+a {
+    @apply text-teal-500;
+}
+
+@tailwind components;
+@tailwind utilities;
